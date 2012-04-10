@@ -1,0 +1,5 @@
+Detect if a user is away, for mosh, screen and tmux
+
+Based on the Weechat screen_away.py script by xt, penryu and others.
+
+License: GPL 3.0 or later.
